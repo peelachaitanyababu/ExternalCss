@@ -1,0 +1,16 @@
+h1 {
+  background-color: blueviolet;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 200;
+  text-align: center;
+}
+p {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: palevioletred;
+}
+
+body {
+  background-image: url(https://tse3.mm.bing.net/th/id/OIP.oYqMOEf80ebDR5N4NSL_rQHaEo?pid=Api&P=0&h=180);
+  background-repeat: repeat;
+  background-position: center;
+}
